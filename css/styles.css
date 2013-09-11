@@ -113,6 +113,10 @@ header {
   position:fixed;
 }
 
+header p {
+    font-size: 18px;
+}
+
 header ul {
   list-style:none;
   height:40px;
